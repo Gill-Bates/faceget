@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+opencv-python
+colorama
+numpy
+scikit-image
