@@ -4,3 +4,5 @@ opencv-python
 colorama
 numpy
 scikit-image
+opencv-python-headless
+face_recognition
